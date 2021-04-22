@@ -15,10 +15,9 @@ MySQL Workbench was used to create the database.
 For the email feature in the application, Java Mail (mail.jar, most recent) and smpt.gmail were used. Credentials for
 the sending email are located in SendEmail.java.
 
-The workspace contains 3 folders, where:
+The workspace contains 2 folders, where:
 
 - `src`: contains the java source files
-- `lib`: the folder for dependencies
 - `sql`: the folder containing the sql tables of the database
 
 ## Installation
